@@ -25,4 +25,3 @@ def sort
     value.sort!
     end
   end
-end
