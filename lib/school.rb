@@ -24,5 +24,5 @@ def sort
   @roster.each do ||
     .sort!
     end
-end
+  end
 end
